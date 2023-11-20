@@ -1,3 +1,5 @@
-Welcome to my misc
-
-Доброе пожаловать в мой раздел "разное"
+# GOOD EVENING MY FRIENDS
+Welcome to my misc!
+-
+Добро пожаловать в мой раздел "Разное"!
+-
